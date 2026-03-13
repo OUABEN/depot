@@ -1,2 +1,3 @@
 Contenu initial du projet
 Ajout de la fonctionnalité X
+Ajout de la fonctionnalité Y
