@@ -1,3 +1,4 @@
 Contenu initial du projet
 Ajout de la fonctionnalité X
 Modification importante sur la branche principale
+Ajout de la fonctionnalité Y
